@@ -1,4 +1,4 @@
-#### | Olá! Eu sou Gabriel Alves 🚀 
+#### | Ainda começando...
 
 <div style="margin-top: 5%;">
 
