@@ -1,16 +1,20 @@
-### Hi there 👋
+### | Olá! Eu sou Gabriel Alves 🚀 
 
-<!--
-**gabriel04alves/gabriel04alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="margin-top: 5%;">
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel04alves&show_icons=true&theme=dracula)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="margin-top: 5%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04alves&layout=compact&theme=dracula)](https://github.com/gabriel04alves/github-readme-stats)
+
+</div>
+
+### | Um pouco sobre mim
+<div style="margin-top: 3%;">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grb.alves)
+[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel04alves/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2eNu1KHn0obIDmhMxAwK5r?si=1c04979638f54650)
+</div>
