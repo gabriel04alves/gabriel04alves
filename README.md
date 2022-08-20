@@ -1,4 +1,4 @@
-### | Olá! Eu sou Gabriel Alves 🚀 
+#### | Olá! Eu sou Gabriel Alves 🚀 
 
 <div style="margin-top: 5%;">
 
@@ -11,7 +11,7 @@
 
 </div>
 
-### | Um pouco sobre mim
+#### | Um pouco sobre mim
 <div style="margin-top: 3%;">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grb.alves)
