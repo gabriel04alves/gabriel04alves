@@ -8,7 +8,11 @@
 <div style="margin-top: 5%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04alves&layout=compact&theme=dracula)](https://github.com/gabriel04alves/github-readme-stats)
+</div>
 
+<div style="margin-top: 5%;"> 
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,vue)](https://skills.thijs.gg)
 </div>
 
 #### | Um pouco sobre mim:
