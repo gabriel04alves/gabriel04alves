@@ -1,4 +1,4 @@
-### | Ainda começando...
+#### | Ainda começando...
 
 <div style="margin-top: 5%;">
 
@@ -10,14 +10,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04alves&layout=compact&theme=dracula)](https://github.com/gabriel04alves/github-readme-stats)
 </div>
 
-### | Tecnologias favoritas: 
+#### | Tecnologias favoritas: 
 <div style="margin-top: 5%;"> 
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue,figma)
 
 </div>
 
-### | Um pouco sobre mim:
+#### | Um pouco sobre mim:
 <div style="margin-top: 3%;">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grb.alves)
