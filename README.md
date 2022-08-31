@@ -1,19 +1,17 @@
-#### | Ainda começando...
-
 <div style="margin-top: 5%;">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel04alves&show_icons=true&theme=dracula)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel04alves&show_icons=true&theme=gotham)
 </div>
 
 <div style="margin-top: 5%;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04alves&layout=compact&theme=dracula)](https://github.com/gabriel04alves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04alves&layout=compact&theme=gotham)](https://github.com/gabriel04alves/github-readme-stats)
 </div>
 
 #### | Tecnologias favoritas: 
 <div style="margin-top: 5%;"> 
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue,figma)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue)
 
 </div>
 
