@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center;">
+  <h3 style="">🎯 | <b> Em constante evolução... </b></h3>
+</div>
+
 <div style="display:flex; align-items: center;  gap:1%; margin-top: 5%; margin-bottom: 3%;">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel04alves&show_icons=true&theme=prussian"/>
