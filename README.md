@@ -1,7 +1,6 @@
 <div style="display:flex; align-items: center; justify: center; gap:10%; margin-top: 5%; margin-bottom: 7%;">
 	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel04alves&show_icons=true&theme=prussian"/>
 	<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04alves&layout=compact&theme=prussian"/>
-  <img height="170em" src="https://streak-stats.demolab.com/?user=gabriel04alves&theme=prussian"/>
 </div>
 
 
