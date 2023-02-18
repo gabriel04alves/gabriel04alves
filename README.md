@@ -12,6 +12,8 @@
 </img> 
 <img src="https://img.icons8.com/windows/512/B6D1EA/js-squared.png" style="height: 54px;" viewBox="0 0 24 24" >
 </img> 
+<img src="https://img.icons8.com/windows/512/B6D1EA/typescript.png" style="height: 54px;" viewBox="0 0 24 24" >
+</img> 
 <img src="https://img.icons8.com/windows/512/B6D1EA/vuejs.png" style="height: 54px;" viewBox="0 0 24 24" >
 </img>
 
