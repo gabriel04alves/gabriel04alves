@@ -16,14 +16,14 @@
 </img> 
 <img src="https://img.icons8.com/windows/512/5682b6/vuejs.png" style="height: 54px;" viewBox="0 0 24 24" >
 </img>
-<img src="https://img.icons8.com/windows/512/5682b6/react-native.png" style="height: 54px;" viewBox="0 0 24 24" >
-</img>
-<img src="https://img.icons8.com/windows/512/5682b6/angularjs.png" style="height: 54px;" viewBox="0 0 24 24" >
 <img src="https://img.icons8.com/windows/512/5682b6/git.png" style="height: 54px;" viewBox="0 0 24 24" >
 </img>
 
 #### I am learning:
 <img src="https://img.icons8.com/windows/512/5682b6/typescript.png" style="height: 54px;" viewBox="0 0 24 24" >
+<img src="https://img.icons8.com/windows/512/5682b6/react-native.png" style="height: 54px;" viewBox="0 0 24 24" >
+</img>
+<img src="https://img.icons8.com/windows/512/5682b6/angularjs.png" style="height: 54px;" viewBox="0 0 24 24" >
 <img src="https://img.icons8.com/windows/512/5682b6/nodejs.png" style="height: 54px;" viewBox="0 0 24 24" >
 </img> 
 <img src="https://img.icons8.com/windows/512/5682b6/json.png" style="height: 54px;" viewBox="0 0 24 24" >
